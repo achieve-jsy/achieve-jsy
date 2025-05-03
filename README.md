@@ -1,5 +1,5 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:533483&height=180&section=header&text=Lumen&fontSize=72&fontColor=ffffff&animation=twinkling" width="100%"/>
+<!-- Banner：托管在仓库内，不依赖 Vercel -->
+<img src="https://raw.githubusercontent.com/achieve-jsy/achieve-jsy/main/assets/banner.svg" width="100%" alt="Lumen"/>
 
 <!-- 访问计数 -->
 <p align="center">
@@ -55,14 +55,23 @@
 
 ### 📊 GitHub 统计
 
+<!-- 由 GitHub Actions 生成并托管，国内访问更稳定 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achieve-jsy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/achieve-jsy/achieve-jsy/main/assets/generated/stats.svg" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achieve-jsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://raw.githubusercontent.com/achieve-jsy/achieve-jsy/main/assets/generated/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumen-jsy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/achieve-jsy/achieve-jsy/main/assets/generated/streak.svg" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🐍 贡献轨迹
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/achieve-jsy/achieve-jsy/main/assets/generated/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -70,7 +79,7 @@
 ### 📈 贡献活动
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achieve-jsy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/achieve-jsy/achieve-jsy/main/assets/generated/activity.svg" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -78,5 +87,3 @@
 <p align="center">
   <i>保持好奇，踏实构建。</i>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:16213e,100:1a1a2e&height=100&section=footer&fontSize=24&fontColor=ffffff" width="100%"/>
