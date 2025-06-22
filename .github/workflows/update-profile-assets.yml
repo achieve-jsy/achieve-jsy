@@ -14,13 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install converters
+        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin imagemagick
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: lumen-jsy
           outputs: |
-            assets/generated/github-contribution-grid-snake.svg
-            assets/generated/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/generated/snake.svg
+            assets/generated/snake.gif?palette=github-dark
 
       - name: Download stats cards
         run: |
@@ -32,7 +35,15 @@ jobs:
           curl -fsSL -o assets/generated/streak.svg \
             "https://streak-stats.demolab.com/?user=lumen-jsy&theme=tokyonight&hide_border=true"
           curl -fsSL -o assets/generated/activity.svg \
-            "https://github-readme-activity-graph.vercel.app/graph?username=achieve-jsy&theme=tokyo-night&hide_border=true&area=true"
+            "https://github-readme-activity-graph.vercel.app/graph?username=achieve-jsy&theme=tokyo-night&hide_border=true&area=true&height=200"
+
+      - name: Convert SVG to PNG for GitHub compatibility
+        run: |
+          rsvg-convert -w 480 assets/generated/stats.svg -o assets/generated/stats.png
+          rsvg-convert -w 360 assets/generated/top-langs.svg -o assets/generated/top-langs.png
+          rsvg-convert -w 520 assets/generated/streak.svg -o assets/generated/streak.png
+          rsvg-convert -w 900 assets/generated/activity.svg -o assets/generated/activity.png
+          rsvg-convert -w 900 assets/banner.svg -o assets/generated/banner.png
 
       - name: Commit generated assets
         run: |
