@@ -44,6 +44,7 @@ jobs:
           rsvg-convert -w 520 assets/generated/streak.svg -o assets/generated/streak.png
           rsvg-convert -w 900 assets/generated/activity.svg -o assets/generated/activity.png
           rsvg-convert -w 900 assets/banner.svg -o assets/generated/banner.png
+          ls -la assets/generated/*.{png,gif} 2>/dev/null || ls -la assets/generated/
 
       - name: Commit generated assets
         run: |
