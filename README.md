@@ -1,6 +1,6 @@
-<!-- 使用相对路径 + PNG/GIF，GitHub 渲染最稳定 -->
+<!-- 图片托管在同仓库，使用 github.com/raw 链接，国内比 raw.githubusercontent.com 更稳定 -->
 
-<img src="./assets/generated/banner.png" width="100%" alt="Lumen"/>
+<img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/banner.png" width="100%" alt="Lumen"/>
 
 ## 你好 👋，我是 Lumen
 
@@ -49,12 +49,12 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="./assets/generated/stats.png" width="48%" alt="GitHub Stats"/>
-  <img src="./assets/generated/top-langs.png" width="48%" alt="Top Languages"/>
+  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/stats.png" width="48%" alt="GitHub Stats"/>
+  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/top-langs.png" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="./assets/generated/streak.png" width="80%" alt="GitHub Streak"/>
+  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/streak.png" width="80%" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🐍 贡献轨迹
 
 <p align="center">
-  <img src="./assets/generated/snake.gif" width="100%" alt="Contribution Snake"/>
+  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/snake.gif" width="100%" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ### 📈 贡献活动
 
 <p align="center">
-  <img src="./assets/generated/activity.png" width="100%" alt="Contribution Graph"/>
+  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/activity.png" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
