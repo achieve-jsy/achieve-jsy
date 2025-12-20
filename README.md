@@ -1,44 +1,28 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/banner.png" width="100%" alt="Lumen"/>
-</p>
-
-<!-- 简介区 -->
-<table width="100%">
-<tr>
-<td valign="top" width="70%">
+<img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/banner.png" width="100%" alt="Lumen"/>
 
 ### 你好 👋，我是 Lumen
 
-```text
-开发者 · 后端工程 · 系统设计 · 开发效率
-```
+<p>
+  <img src="https://img.shields.io/badge/Developer-6366f1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Systems-8b5cf6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Efficiency-14b8a6?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=achieve-jsy&label=Views&color=334155&style=flat-square"/>
+</p>
 
 一名热爱写代码的开发者，关注 **后端工程**、**系统设计** 与 **开发效率**。  
 相信好的代码应该 **清晰、可靠、易于演进**。
-
-</td>
-<td valign="top" width="30%" align="right">
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=achieve-jsy&label=Views&color=6366f1&style=for-the-badge" alt="views"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 🧑‍💻 关于我
 
-```text
-🔭  日常与 Go / Linux / 数据库 / 分布式系统 打交道
-🌱  持续学习，乐于分享与实践
-💡  喜欢用清晰的架构解决实际问题
-⚡  重视可读性、可维护性与工程化思维
-📫  欢迎通过 GitHub 或 Email 与我交流
-```
+- 🔭 日常与 **Go / Linux / 数据库 / 分布式系统** 打交道
+- 🌱 持续学习，乐于分享与实践
+- 💡 喜欢用清晰的架构解决实际问题
+- ⚡ 重视可读性、可维护性与工程化思维
+- 📫 欢迎通过 GitHub 或 Email 与我交流
 
 ---
 
@@ -64,7 +48,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:jsy_come_on@163.com">
-    <img src="https://img.shields.io/badge/Email-jsy__come__on@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -74,7 +58,7 @@
 
 <p align="center">
   <img height="180" src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/stats.png" alt="GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img height="180" src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/top-langs.png" alt="Top Languages"/>
 </p>
 
@@ -87,7 +71,7 @@
 ### 🐍 贡献轨迹
 
 <p align="center">
-  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/snake.gif" width="92%" alt="Contribution Snake"/>
+  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/snake.gif" width="100%" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -95,13 +79,9 @@
 ### 📈 近期活动
 
 <p align="center">
-  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/activity.png" width="92%" alt="Contribution Graph"/>
+  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/activity.png" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Keep%20Curious-Build%20Steadily-6366f1?style=for-the-badge"/>
-</p>
 
 <p align="center"><i>保持好奇，踏实构建。</i></p>

@@ -1,22 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#0f172a"/>
-      <stop offset="45%" style="stop-color:#1e293b"/>
-      <stop offset="100%" style="stop-color:#312e81"/>
+      <stop offset="50%" style="stop-color:#1e293b"/>
+      <stop offset="100%" style="stop-color:#4338ca"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#38bdf8"/>
       <stop offset="100%" style="stop-color:#a78bfa"/>
     </linearGradient>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="rgba(255,255,255,0.08)"/>
-    </pattern>
   </defs>
-  <rect width="1200" height="220" fill="url(#bg)"/>
-  <rect width="1200" height="220" fill="url(#dots)"/>
-  <rect x="80" y="108" width="180" height="4" rx="2" fill="url(#accent)"/>
-  <text x="80" y="88" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Lumen</text>
-  <text x="80" y="150" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Developer / Backend / Systems</text>
-  <text x="80" y="182" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Build with clarity. Ship with care.</text>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect x="72" y="98" width="160" height="4" rx="2" fill="url(#line)"/>
+  <text x="72" y="82" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Lumen</text>
+  <text x="72" y="132" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Backend / Systems / Developer Tools</text>
+  <text x="72" y="162" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Build with clarity. Ship with care.</text>
 </svg>
