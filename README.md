@@ -1,6 +1,6 @@
 <h1 align="center">你好，我是 achieve-jsy 👋</h1>
 
-<p align="center">后端工程 · 系统设计 · LLM 基础设施</p>
+<p align="center">后端 + AI 应用开发 · Go · 分布式 · LLM 基础设施</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 ---
 
-写后端为主，关注 **系统设计**、**分布式** 和 **开发效率**。
+主攻**后端服务**与 **AI 应用开发**：Go / 分布式系统 / LLM 接入与调度。
 喜欢把复杂的东西收敛成一个干净接口，也喜欢把踩过的坑写成能直接用的工具。
 
 ## 代表项目
