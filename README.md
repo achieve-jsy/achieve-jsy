@@ -1,87 +1,48 @@
-<!-- Banner -->
-<img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/banner.png" width="100%" alt="Lumen"/>
+<h1 align="center">你好，我是 achieve-jsy 👋</h1>
 
-### 你好 👋，我是 Lumen
-
-<p>
-  <img src="https://img.shields.io/badge/Developer-6366f1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-0ea5e9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Systems-8b5cf6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Efficiency-14b8a6?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=achieve-jsy&label=Views&color=334155&style=flat-square"/>
-</p>
-
-一名热爱写代码的开发者，关注 **后端工程**、**系统设计** 与 **开发效率**。  
-相信好的代码应该 **清晰、可靠、易于演进**。
-
----
-
-### 🧑‍💻 关于我
-
-- 🔭 日常与 **Go / Linux / 数据库 / 分布式系统** 打交道
-- 🌱 持续学习，乐于分享与实践
-- 💡 喜欢用清晰的架构解决实际问题
-- ⚡ 重视可读性、可维护性与工程化思维
-- 📫 欢迎通过 GitHub 或 Email 与我交流
-
----
-
-### 🛠 语言与工具
+<p align="center">后端工程 · 系统设计 · LLM 基础设施</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 联系我
+写后端为主，关注 **系统设计**、**分布式** 和 **开发效率**。
+喜欢把复杂的东西收敛成一个干净接口，也喜欢把踩过的坑写成能直接用的工具。
+
+## 代表项目
+
+| 项目 | 一句话 |
+|---|---|
+| [llm-gateway](https://github.com/achieve-jsy/llm-gateway) | 统一大模型网关：OpenAI 兼容入口 + 多厂商模型组调度 + 管理台 |
+| [lan-proxy-gateway](https://github.com/achieve-jsy/lan-proxy-gateway) | 把一台电脑变成整屋的代理网关（mihomo / TUN / 链式代理） |
+| [mac_desk_arrangement](https://github.com/achieve-jsy/mac_desk_arrangement) | macOS 多显示器窗口布局管理，一键排列与快照恢复 |
+| [monitor_bian](https://github.com/achieve-jsy/monitor_bian) | 币圈合约持仓监控，伪装成系统监控面板 |
+| [nba2kol2_script](https://github.com/achieve-jsy/nba2kol2_script) | NBA 2KOL2 自动化脚本 |
+
+## GitHub 数据
 
 <p align="center">
-  <a href="https://github.com/achieve-jsy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:jsy_come_on@163.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub 数据
-
-<p align="center">
-  <img height="180" src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/stats.png" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/top-langs.png" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=achieve-jsy&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achieve-jsy&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/streak.png" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achieve-jsy&hide_border=true&theme=transparent"/>
 </p>
+
+## 联系
+
+- GitHub：[@achieve-jsy](https://github.com/achieve-jsy)
+- Email：`jsy_comeon_achieve@163.com`
 
 ---
 
-### 🐍 贡献轨迹
-
-<p align="center">
-  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/snake.gif" width="100%" alt="Contribution Snake"/>
-</p>
-
----
-
-### 📈 近期活动
-
-<p align="center">
-  <img src="https://github.com/achieve-jsy/achieve-jsy/raw/main/assets/generated/activity.png" width="100%" alt="Contribution Graph"/>
-</p>
-
----
-
-<p align="center"><i>保持好奇，踏实构建。</i></p>
+<p align="center"><i>保持好奇，保持简单。</i></p>
