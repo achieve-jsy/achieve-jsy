@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" role="img" aria-label="GitHub 数据">
+  <style>
+    .bg { fill: #ffffff; }
+    .bd { fill: none; stroke: #e4e8ef; }
+    .lab { fill: #57606a; }
+    .val { fill: #0969da; }
+    .bar { fill: #d0d7de; }
+    .big { font: 600 20px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .small { font: 400 12px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .bd { stroke: #30363d; }
+      .lab { fill: #8b949e; }
+      .val { fill: #58a6ff; }
+      .bar { fill: #30363d; }
+    }
+  </style>
+  <rect class="bg" x="0" y="0" width="495" height="215" rx="10"/>
+  <rect class="bd" x="0.5" y="0.5" width="494" height="214" rx="10"/>
+
+  <text class="val big" x="80" y="58" text-anchor="middle">2,448</text>
+  <text class="lab small" x="80" y="80" text-anchor="middle">近一年贡献</text>
+
+  <text class="val big" x="247" y="58" text-anchor="middle">13</text>
+  <text class="lab small" x="247" y="80" text-anchor="middle">公开仓库</text>
+
+  <text class="val big" x="415" y="58" text-anchor="middle">11</text>
+  <text class="lab small" x="415" y="80" text-anchor="middle">获得 Star</text>
+
+  <line class="bd" x1="20" y1="100" x2="475" y2="100"/>
+
+  <text class="lab small" x="24" y="124">Go</text>
+  <rect class="bar" x="120" y="115" width="300" height="8" rx="4"/>
+  <rect class="val" x="120" y="115" width="186" height="8" rx="4"/>
+  <text class="lab small" x="462" y="124" text-anchor="end">62%</text>
+
+  <text class="lab small" x="24" y="148">Vue</text>
+  <rect class="bar" x="120" y="139" width="300" height="8" rx="4"/>
+  <rect class="val" x="120" y="139" width="47" height="8" rx="4"/>
+  <text class="lab small" x="462" y="148" text-anchor="end">16%</text>
+
+  <text class="lab small" x="24" y="172">TypeScript</text>
+  <rect class="bar" x="120" y="163" width="300" height="8" rx="4"/>
+  <rect class="val" x="120" y="163" width="19" height="8" rx="4"/>
+  <text class="lab small" x="462" y="172" text-anchor="end">6%</text>
+
+  <text class="lab small" x="24" y="196">Python</text>
+  <rect class="bar" x="120" y="187" width="300" height="8" rx="4"/>
+  <rect class="val" x="120" y="187" width="17" height="8" rx="4"/>
+  <text class="lab small" x="462" y="196" text-anchor="end">6%</text>
+</svg>

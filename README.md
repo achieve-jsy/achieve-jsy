@@ -51,12 +51,11 @@
 ## GitHub 数据
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=achieve-jsy&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"/>
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=achieve-jsy&layout=compact&hide_border=true&theme=transparent"/>
+  <img src="assets/stats.svg" alt="GitHub 数据" width="495"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=achieve-jsy&hide_border=true&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com/?user=achieve-jsy&hide_border=true&theme=transparent" alt="streak"/>
 </p>
 
 ---
