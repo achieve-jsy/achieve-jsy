@@ -1,4 +1,4 @@
-<h1 align="center">贾仕遥 · Achieve</h1>
+<h1 align="center">你好，我是 Achieve 👋</h1>
 
 <p align="center"><b>大模型应用开发（Agent / RAG）</b> · 后端工程 · 杭州</p>
 
